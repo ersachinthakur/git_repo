@@ -7,5 +7,9 @@ public class Demo {
 		
 		System.out.println("ONE");
 		System.out.println("TWO");
+<<<<<<< HEAD
+=======
+		System.out.println("THREE");
+>>>>>>> feature_one
 	}
 }
